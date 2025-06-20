@@ -1,4 +1,4 @@
-# Finlatics Data Science & Machine Learning Projects
+# Finlatics Machine Learning Projects
 
 This repository contains my project submissions and analyses completed during the Finlatics Machine Learning Program. The projects focus on applying core Machine Learning techniques to real-world datasets using Python and popular machine learning libraries.
 
